@@ -6,6 +6,7 @@ Java Intro assignment 3
 
 #### Chapter 3 - Selections
 #### Chapter 4 - Math Functions, Characters, and Strings
+<hr>
 
 1) Ask for a password and if the password is incorrect, issue an error message and terminate the program.
    <br> The correct password is meme and the password is case-sensitive.
